@@ -9,6 +9,7 @@ Community Resolution Platform bridges the gap between citizens and municipal aut
 ## Key Features
 
 | Feature | Description |
+
 |  **Public Issue Tracker** | Search by pincode, ward, or keyword — no login required |
 |  **Photo Upload + AI Suggestion** | Upload photo, get auto category suggestion before submitting |
 |  **6-Stage Workflow** | Reported → Assigned → Accepted → In Progress → Resolved → Verified → Closed |
