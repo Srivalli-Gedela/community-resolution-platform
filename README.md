@@ -8,14 +8,18 @@ Community Resolution Platform bridges the gap between citizens and municipal aut
 
 ## Key Features
 
-| Feature | Description |
-
 |  **Public Issue Tracker** | Search by pincode, ward, or keyword — no login required |
+
 |  **Photo Upload + AI Suggestion** | Upload photo, get auto category suggestion before submitting |
+
 |  **6-Stage Workflow** | Reported → Assigned → Accepted → In Progress → Resolved → Verified → Closed |
+
 |  **Live Map** | Real-time map view of all reported issues |
+
 |  **Real-time Notifications** | Socket.io powered in-app alerts for officers and citizens |
+
 |  **Role-Based Access** | Citizen / Officer / Admin with protected routes |
+
 |  **India-First Location** | Address, area, ward, pincode, and landmark fields |
 
 ---
@@ -23,7 +27,7 @@ Community Resolution Platform bridges the gap between citizens and municipal aut
 ## Quick Start (Docker needed)
 
 ```bash
-git clone https://github.com/Srivalli-Gedela/community-resolution-platform.git
+git clone https://github.com/harini-collab/community-resolution-platform.git
 cd community-resolution-platform
 
 cp .env.example .env
@@ -89,4 +93,11 @@ community-resolution-platform/
 **DevOps:** Docker, Docker Compose
 
 ---
+
+## Team
+
+| Name | Contribution | GitHub |
+|------|-------------|--------|
+| Harini | Auth System, Issue Map, Notifications, API Routes, Database Schema, Docker | [@harini-collab](https://github.com/harini-collab) |
+| Srivalli | Dashboard, Officer Pages, Admin Panel, Backend Routes, Socket.io, Cloudinary | [@Srivalli-Gedela](https://github.com/Srivalli-Gedela) |
 
